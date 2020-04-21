@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mranderssonz/Desktop/Systemutcekling/OOP 2/Inlämning3/Github/SFF/SFF_Sqlite/SFF_Sqlite/SFF_Sqlite.csproj": {}
+  },
+  "projects": {
+    "/Users/mranderssonz/Desktop/Systemutcekling/OOP 2/Inlämning3/Github/SFF/SFF_Sqlite/SFF_Sqlite/SFF_Sqlite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mranderssonz/Desktop/Systemutcekling/OOP 2/Inlämning3/Github/SFF/SFF_Sqlite/SFF_Sqlite/SFF_Sqlite.csproj",
+        "projectName": "SFF_Sqlite",
+        "projectPath": "/Users/mranderssonz/Desktop/Systemutcekling/OOP 2/Inlämning3/Github/SFF/SFF_Sqlite/SFF_Sqlite/SFF_Sqlite.csproj",
+        "packagesPath": "/Users/mranderssonz/.nuget/packages/",
+        "outputPath": "/Users/mranderssonz/Desktop/Systemutcekling/OOP 2/Inlämning3/Github/SFF/SFF_Sqlite/SFF_Sqlite/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mranderssonz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Formatters.Xml": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

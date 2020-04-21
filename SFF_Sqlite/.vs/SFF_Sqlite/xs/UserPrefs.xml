@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{CC09997D-1B9C-4F85-B05B-9C055CCF2F26}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SFF_Sqlite/Repository/ReviewRepository.cs">
+    <Files>
+      <File FileName="SFF_Sqlite/Controllers/FilmClubController.cs" Line="86" Column="49" />
+      <File FileName="SFF_Sqlite/Controllers/MovieController.cs" Line="1" Column="1" />
+      <File FileName="SFF_Sqlite/Controllers/ReviewController.cs" Line="69" Column="44" />
+      <File FileName="SFF_Sqlite/Controllers/LendingController.cs" Line="1" Column="1" />
+      <File FileName="SFF_Sqlite/Controllers/LabelController.cs" Line="26" Column="42" />
+      <File FileName="SFF_Sqlite/Models/FilmClub.cs" />
+      <File FileName="SFF_Sqlite/Repository/FilmClubRepository.cs" Line="24" Column="56" />
+      <File FileName="SFF_Sqlite/Repository/LabelRepository.cs" />
+      <File FileName="SFF_Sqlite/Repository/LendingRepository.cs" Line="59" Column="1" />
+      <File FileName="SFF_Sqlite/Repository/MovieRepository.cs" Line="2" Column="1" />
+      <File FileName="SFF_Sqlite/Repository/ReviewRepository.cs" Line="146" Column="48" />
+      <File FileName="SFF_Sqlite/DTO/FilmClubDto.cs" Line="1" Column="1" />
+      <File FileName="SFF_Sqlite/Models/Review.cs" Line="1" Column="1" />
+      <File FileName="SFF_Sqlite/Models/Lending.cs" Line="11" Column="25" />
+      <File FileName="SFF_Sqlite/Startup.cs" Line="33" Column="13" />
+      <File FileName="SFF_Sqlite/Repository/ILabelRepository.cs" Line="9" Column="35" />
+      <File FileName="SFF_Sqlite/Models/Movie.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SFF_Sqlite" expanded="True">
+            <Node name="SFF_Sqlite" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="ReviewRepository.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SFF__Sqlite PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
